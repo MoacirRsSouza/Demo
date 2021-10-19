@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NBrDeLtZsgyO54rJztFgv1JlKF8Sg9h9nn9xYTQbURw7vT4xfTzc4+m2m8S2CwWBNgnAukDIz57zqirfOJUYfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moacir\\source\\repos\\Demo.Prova\\Demo.Prova.Common\\Demo.Prova.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moacir\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Moacir\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Moacir\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\Moacir\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\Moacir\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Moacir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Moacir\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

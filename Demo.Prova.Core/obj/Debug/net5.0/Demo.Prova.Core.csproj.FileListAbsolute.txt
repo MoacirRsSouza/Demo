@@ -1,0 +1,12 @@
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\bin\Debug\net5.0\Demo.Prova.Core.deps.json
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\bin\Debug\net5.0\Demo.Prova.Core.dll
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\bin\Debug\net5.0\ref\Demo.Prova.Core.dll
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\bin\Debug\net5.0\Demo.Prova.Core.pdb
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\obj\Debug\net5.0\Demo.Prova.Core.csproj.AssemblyReference.cache
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\obj\Debug\net5.0\Demo.Prova.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\obj\Debug\net5.0\Demo.Prova.Core.AssemblyInfoInputs.cache
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\obj\Debug\net5.0\Demo.Prova.Core.AssemblyInfo.cs
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\obj\Debug\net5.0\Demo.Prova.Core.csproj.CoreCompileInputs.cache
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\obj\Debug\net5.0\Demo.Prova.Core.dll
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\obj\Debug\net5.0\ref\Demo.Prova.Core.dll
+C:\Users\Moacir\source\repos\Demo.Prova\Demo.Prova.Core\obj\Debug\net5.0\Demo.Prova.Core.pdb

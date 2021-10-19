@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xb6uGi4nvjnQfnkwlHNSldjnYY9PTnNwk6cDAZiPysS/KkiqSUifDKuWI/LCI4HvQUr48js7Qs5orhJ/ygPVkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moacir\\source\\repos\\Demo.Prova\\Demo.Prova.Core\\Demo.Prova.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moacir\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
